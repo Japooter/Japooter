@@ -1,4 +1,4 @@
-### Hello! I'm Japooter/James :)
+### Hello! I'm James :)
 
     🔭 I’m currently working at Sparta Global.
     🌱 I’m currently learning Python and SQL.
