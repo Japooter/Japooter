@@ -1,9 +1,9 @@
 ### Hello! I'm James :)
 
     🔭 I’m currently working at Sparta Global.
-    🌱 I’m currently learning Python and SQL.
+    🌱 I’m currently learning Apache Airflow
     👯 I’m looking to collaborate on nothing at the moment (sorry).
-    💬 Ask me about working remotely.
+    💬 Ask me about Data Engineering
     📫 How to reach me: GitHub or Smoke Signals
     ⚡ Fun fact: I am not the Dragon of Dojima but I feel like I know him.
 
